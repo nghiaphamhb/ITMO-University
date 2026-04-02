@@ -1,0 +1,15 @@
+First, we need a folder of source codes
+
+javac Main.java   // create all class in the folder
+
+echo "Main-Class: Main" > Manifest.txt 
+
+Tạo file jar: jar cfm <Tên file jar muốn tạo> <Manifest> <Main-Class và các (packages) chứa các class còn lại> 
+jar cfm Main.jar Manifest.txt *.class 	// create the JAR file (Main.jar- name of JAR file we want to create, Manifest.txt and *.class are components of creation)
+
+Giả sử có Main.class, packages Core và Utility:
+jar cfm Main.jar Manifest.txt Main.class Core Utility
+
+java -jar Main.jar   //run the JAR file
+
+java -cp "gson-2.10.1.jar:Lab5_32218.jar" Main "$@"

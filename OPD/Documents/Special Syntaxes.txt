@@ -1,0 +1,12 @@
+-Câu lệnh truy cập: ssh -p 2222 s374806@helios.cs.ifmo.ru
+-vim truy cập file (java)
+-esc/-i khóa/ mở chỉnh sửa file
+-:wq thoát file
+-Lệnh super copy : cp <địa chỉ file cần copy> <địa chỉ đến>
+Đây là lệnh dùng để copy file từ máy ở xa đến máy cục bộ
+Ví dụ: scp -P 2222 D:\Desktop\testCP.jpg s374806@helios.cs.ifmo.ru:~
+Trong đó: <D:\Desktop\testCP.jpg> là địa chỉ file trên máy cá nhân; <s374806@helios.cs.ifmo.ru:~> là địa chỉ đích đến trên sever helios (~ có thể viết thành /home/studs/s374806)
+
+
+-Câu hỏi bảo vệ lab: https://se.ifmo.ru/~ninomt/questions.html
+-Variant: 10110 (журнал H1.1)

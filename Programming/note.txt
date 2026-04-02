@@ -1,0 +1,2 @@
+lệnh System.out.println(""); sau khi kết thúc lệnh sẽ tự xuống dòng (nếu thêm "\n" vào cuối nội dung sẽ là xuống dòng 2 lần)
+các lệnh in khác như System.out.format("") sau khi kết thúc sẽ ko tự động xuống dòng
