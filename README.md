@@ -66,3 +66,16 @@
 
 [🔧 Стажировки по блокчейну/ Blockchain internship trials](./Blockchain_trial)
 
+## 6-semester
+* Компьютерная безопасность/ Computer Security
+* [Компьютерные сети/ Computer Networks](https://github.com/nghiaphamhb/Computer-Networking)
+* [Многопоточное программирование/ Multithreaded Programming]()
+* Основы интеллектуальной собственности/ Fundamentals of Intellectual Property
+* [Основы машинного обучения/ Fundamentals of Machine Learning](https://github.com/nghiaphamhb/Machine-Learning-Basics)
+* Разработка мультимедийных приложений/ Multimedia Application Development
+* Русский язык как иностранный/ Russian as a Foreign Language
+* Системное администрирование/ System Administration
+* Теория систем/ Systems Theory
+* [Тестирование программного обеспечения/ Software Testing](https://github.com/nghiaphamhb/Software-Testing)
+* Физическая культура и спорт
+* Философия/ Philosophy
