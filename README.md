@@ -69,13 +69,13 @@
 ## 6-semester
 * Компьютерная безопасность/ Computer Security
 * [Компьютерные сети/ Computer Networks](https://github.com/nghiaphamhb/Computer-Networking)
-* [Многопоточное программирование/ Multithreaded Programming]()
-* Основы интеллектуальной собственности/ Fundamentals of Intellectual Property
+* [Многопоточное программирование/ Multithreaded Programming](https://github.com/dostoevski-16/ITMO-University-2/tree/main/MP)
+* [Основы интеллектуальной собственности/ Fundamentals of Intellectual Property](https://github.com/dostoevski-16/ITMO-University-2/tree/main/%D0%9E%D0%98%D0%A1)
 * [Основы машинного обучения/ Fundamentals of Machine Learning](https://github.com/nghiaphamhb/Machine-Learning-Basics)
-* Разработка мультимедийных приложений/ Multimedia Application Development
+* [Разработка мультимедийных приложений/ Multimedia Application Development](https://github.com/dostoevski-16/ITMO-University-2/tree/main/PM)
 * Русский язык как иностранный/ Russian as a Foreign Language
-* Системное администрирование/ System Administration
-* Теория систем/ Systems Theory
+* [Системное администрирование/ System Administration](https://github.com/dostoevski-16/ITMO-University-2/tree/main/System-Administration)
+* [Теория систем/ Systems Theory](https://github.com/dostoevski-16/ITMO-University-2/blob/main/Systems-Theory.zip)
 * [Тестирование программного обеспечения/ Software Testing](https://github.com/nghiaphamhb/Software-Testing)
 * Физическая культура и спорт
-* Философия/ Philosophy
+* [Философия/ Philosophy](https://github.com/dostoevski-16/ITMO-University-2/tree/main/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84%D0%B8%D1%8F)
